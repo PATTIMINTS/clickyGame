@@ -21,7 +21,7 @@ class App extends Component {
         friends,
         currentScore: 0,
         topScore: 0,
-        eORw: "",
+        rORw: "",
         clicked: [],
 
 
@@ -44,7 +44,7 @@ class App extends Component {
         if (newScore >= this.state.topScore) {
             this.setState({ topScore: newScore });
         }
-        else if (newScore === 12) {
+        else if (newScore === 8) {
             this.setState({ rORw: "You win!" });
         }
 
@@ -53,11 +53,12 @@ class App extends Component {
         this.setState({
             currentScore: 0,
             topScore: this.state.topScore,
-            rORw: "Glaven!",
+            rORw: "Later Boners!",
             clicked: []
         });
         this.handleShuffle();
     };
+    
     handleShuffle = () => {
         let shuffledFriends = shuffleFriends(friends);
         this.setState({ friends: shuffledFriends });
@@ -73,7 +74,7 @@ class App extends Component {
                     topScore={this.state.topScore}
                     rORw={this.state.rORw}>
                 </Nav>
-                <Title>Friends List</Title>
+                <Title>Click on each character once.</Title>
                 {this.state.friends.map(friend => (
                     <FriendCard
 
