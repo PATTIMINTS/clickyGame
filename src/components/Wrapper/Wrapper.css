@@ -1,4 +1,4 @@
-.wrapper {
+/* .wrapper {
     padding-top: 50px;
     background: #ECEFF1;
     height: 100%;
@@ -8,5 +8,18 @@
     justify-content: space-around;
     align-content: flex-start;
     overflow: auto;
+  } */
+
+  .wrapper {
+    background: rgb(175, 175, 175);
+    background-image: url('https://stmed.net/sites/default/files/it%27s-always-sunny-in-philadelphia-wallpapers-31597-6201980.jpg');
+    height: 100%;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+    align-content: flex-start;
+    overflow: auto;
+    padding-bottom: 50px; 
+    background-size: 100%;
   }
-  
+   

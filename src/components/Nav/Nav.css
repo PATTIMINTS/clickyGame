@@ -1,0 +1,28 @@
+.navbar {
+
+    width: 100%;
+    position: fixed;
+    white-space: nowrap;
+    z-index: 99;
+    margin-top: -20px;
+    padding-top: 0;
+    box-shadow: 0 3px 6px #999, 0 3px 6px #999;
+    
+    
+}
+
+nav li {
+    display: inline-block;
+    padding: 26px 0;
+    width: 25%;
+    color: yellow;
+    margin-left: 150px;
+    /* text-align: center; */
+  }
+  
+  ul {
+    /* padding-left: 0px; */
+    display: flex;
+    align-items: center;
+    
+  }

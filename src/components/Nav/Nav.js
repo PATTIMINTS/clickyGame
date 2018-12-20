@@ -2,7 +2,7 @@ import React from "react";
 import "./Nav.css";
 
 const Nav = props => (
-    <div className="container-fluid">
+    
     <nav className="navbar navbar-dark bg-dark">
       <ul>
         <li className="brand animated lightSpeedIn">
@@ -16,6 +16,6 @@ const Nav = props => (
         <li id="top-sco">Top Score: {props.topScore}</li>
       </ul>
     </nav>
-    </div>
+   
   );
 export default Nav;
