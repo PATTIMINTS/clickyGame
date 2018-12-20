@@ -2,45 +2,60 @@
     {
         "id": 1,
         "name": "Dennis",
-        "image": "https://i.redd.it/55fes7tcoap01.jpg"
+        "image": "https://i.redd.it/55fes7tcoap01.jpg",
+        "clicked": false
 
     },
     {
         "id": 2,
         "name": "Dee",
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8QBVFelkDNBdxwnUDcIw4m0hRN6UEe6R56um58vHqXDphfHgN-g"
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8QBVFelkDNBdxwnUDcIw4m0hRN6UEe6R56um58vHqXDphfHgN-g",
+        "clicked": false
+
     },
     {
         "id": 3,
         "name": "Mac",
-        "image": "http://img3.wikia.nocookie.net/__cb20110925014455/itsalwayssunny/images/d/dc/Square-Mac-Cheesy.jpg"
+        "image": "http://img3.wikia.nocookie.net/__cb20110925014455/itsalwayssunny/images/d/dc/Square-Mac-Cheesy.jpg",
+        "clicked": false
+
     },
     {
         "id": 4,
         "name": "Frank Reynolds",
-        "image": "http://www.quotationof.com/images/frank-reynolds-4.jpg"
+        "image": "http://www.quotationof.com/images/frank-reynolds-4.jpg",
+        "clicked": false
+
     },
     {
         "id": 5,
         "name": "Margaret Mcpoyle",
-        "image": "https://www.itsalways.com/wp-content/uploads/2015/01/Margaret-McPoyle.jpg"
+        "image": "https://www.itsalways.com/wp-content/uploads/2015/01/Margaret-McPoyle.jpg",
+        "clicked": false
+
     },
     {
         "id": 6,
         "name": "Liam Mcpoyle",
-        "image": "http://pbs.twimg.com/media/B2nEyScIgAA0vG3.jpg"
+        "image": "http://pbs.twimg.com/media/B2nEyScIgAA0vG3.jpg",
+        "clicked": false
+
     },
     
     
     {
         "id": 9,
         "name": "The Waitress",
-        "image": "https://thoughtcatalog.files.wordpress.com/2017/11/its-always-sunny-in-philadelphia-season-2-episode-6-10-4990.jpg?resize=480,352&quality=95&strip=all&crop=1"
+        "image": "https://thoughtcatalog.files.wordpress.com/2017/11/its-always-sunny-in-philadelphia-season-2-episode-6-10-4990.jpg?resize=480,352&quality=95&strip=all&crop=1",
+        "clicked": false
+
     },
     {
         "id": 10,
         "name": "Cricket",
-        "image": "https://assets.fxnetworks.com/cms/prod/2018/08/07/web_cast_davidhornsby_sunny_570x698.jpg?resize=570:*"
+        "image": "https://assets.fxnetworks.com/cms/prod/2018/08/07/web_cast_davidhornsby_sunny_570x698.jpg?resize=570:*",
+        "clicked": false
+
     }
 
 
