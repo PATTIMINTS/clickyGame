@@ -44,7 +44,7 @@ class App extends Component {
         if (newScore >= this.state.topScore) {
             this.setState({ topScore: newScore });
         }
-        else if (newScore === 8) {
+        else if (newScore === 11) {
             this.setState({ rORw: "You win!" });
         }
 
@@ -69,7 +69,7 @@ class App extends Component {
         return (
             <Wrapper>
                 <Nav
-                    title="Sunny in Phili Friends click Game"
+                    title="It's Always Sunny Friends click Game"
                     score={this.state.currentScore}
                     topScore={this.state.topScore}
                     rORw={this.state.rORw}>

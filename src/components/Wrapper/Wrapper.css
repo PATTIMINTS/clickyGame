@@ -2,7 +2,9 @@
 
   .wrapper {
     
-    background-image: url('https://stmed.net/sites/default/files/it%27s-always-sunny-in-philadelphia-wallpapers-31597-6201980.jpg');
+    /* background-image: url('https://stmed.net/sites/default/files/it%27s-always-sunny-in-philadelphia-wallpapers-31597-6201980.jpg'); */
+    background-image: url('https://images.bwwstatic.com/columnpic10/6803BE3ED6A-E21B-6726-A7CB35CA3ED98070.jpg');
+    background-color: black;
     height: 100%;
     display: flex;
     flex-flow: row wrap;
@@ -10,6 +12,10 @@
     align-content: flex-start;
    overflow: auto;
     padding-bottom: 50px; 
-    background-size: 100%;
+    background-size: 60%;
+    background-repeat: no-repeat;
+    background-position: top;
+  
+    
   }
    

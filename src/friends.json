@@ -22,21 +22,21 @@
     },
     {
         "id": 4,
-        "name": "Frank Reynolds",
+        "name": "Frank",
         "image": "http://www.quotationof.com/images/frank-reynolds-4.jpg",
         "clicked": false
 
     },
     {
         "id": 5,
-        "name": "Margaret Mcpoyle",
+        "name": "Margaret",
         "image": "https://www.itsalways.com/wp-content/uploads/2015/01/Margaret-McPoyle.jpg",
         "clicked": false
 
     },
     {
         "id": 6,
-        "name": "Liam Mcpoyle",
+        "name": "Liam",
         "image": "http://pbs.twimg.com/media/B2nEyScIgAA0vG3.jpg",
         "clicked": false
 
@@ -44,18 +44,42 @@
     
     
     {
-        "id": 9,
+        "id": 7,
         "name": "The Waitress",
         "image": "https://thoughtcatalog.files.wordpress.com/2017/11/its-always-sunny-in-philadelphia-season-2-episode-6-10-4990.jpg?resize=480,352&quality=95&strip=all&crop=1",
         "clicked": false
 
     },
     {
-        "id": 10,
+        "id": 8,
         "name": "Cricket",
         "image": "https://assets.fxnetworks.com/cms/prod/2018/08/07/web_cast_davidhornsby_sunny_570x698.jpg?resize=570:*",
         "clicked": false
 
+    },
+    {
+        "id": 9,
+        "name": "Charile",
+        "image": "https://pbs.twimg.com/profile_images/534237470620012545/XPFETZur_400x400.jpeg",
+        "clicked": false  
+    },
+    {
+        "id": 10,
+        "name": "Maureen",
+        "image": "http://i.imgur.com/cfs5eBj.png",
+        "clicked": false
+    },
+    {
+        "id": 11,
+        "name": "Uncle Jack",
+        "image": "https://pbs.twimg.com/media/DD0SjC9WsAIZHLw.jpg",
+        "clicked": false
+    },
+    {
+        "id": 12,
+        "name": "Luther",
+        "image": "https://vignette.wikia.nocookie.net/itsalwayssunny/images/6/6a/Mac_Kills_His_Dad_10.jpg/revision/latest?cb=20150301230534",
+        "clicked": false
     }
 
 
