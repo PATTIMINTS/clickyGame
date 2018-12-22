@@ -2,7 +2,7 @@
 
 {
   "name": "clickygame",
-  "homepage": "http://PATTIMINTS.github.io/clickygame",
+  "homepage": "http://pattimints.github.io/clickygame",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
