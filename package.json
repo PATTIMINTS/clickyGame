@@ -1,5 +1,8 @@
+
+
 {
   "name": "clickygame",
+  "homepage": "http://PATTIMINTS.github.io/clickygame",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -14,7 +17,9 @@
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
-    "extends": "react-app"
+    "extends": "react-app",
+    "predeploy": "npm run build",
+  "deploy": "gh-pages -d build"
   },
   "browserslist": [
     ">0.2%",
