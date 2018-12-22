@@ -24,7 +24,7 @@ nav li {
   }
   
   ul {
-    /* padding-left: 0px; */
+    
     display: flex;
     align-items: center;
     margin-top: 50px;
